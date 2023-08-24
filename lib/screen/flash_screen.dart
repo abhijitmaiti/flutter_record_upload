@@ -32,7 +32,7 @@ class _FlashScreenState extends State<FlashScreen> {
     return Scaffold(
         backgroundColor: Color.fromARGB(255, 228, 229, 235),
         appBar: AppBar(
-          toolbarHeight: 100,
+          toolbarHeight: 101,
           title: Center(
             child: RichText(
                 textAlign: TextAlign.center,
